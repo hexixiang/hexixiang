@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=hexixiang&show_icons=true&theme=transparent)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=hexixiang&theme=dracula)
