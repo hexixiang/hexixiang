@@ -1,10 +1,10 @@
-### Hi there 👋,I'm zhe.
+### Hi there 👋,I'm he.
 
-- 🔭 I’m currently working on something cool.
+- 🔭 I’m currently working on large language models.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: wisdom_zhe@qq.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
+- 📫 How to reach me: hexixiang@nudt.edu.cn
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/weixin_45507599?type=blog)
 
 ![](https://github-readme-stats.vercel.app/api?username=hexixiang&show_icons=true&theme=transparent)
 
