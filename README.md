@@ -55,7 +55,7 @@ Check out my articles and insights on my [CSDN Blog](https://blog.csdn.net/weixi
 
 ### 📊 Visitors
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/hexixiang/count.svg) visitor! Thank you for stopping by! 😄💖
+![](https://komarev.com/ghpvc/?username=hexixiang&color=blue&style=flat-square&label=Profile+Views)
 
 ---
 
