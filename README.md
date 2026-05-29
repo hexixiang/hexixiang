@@ -7,6 +7,7 @@
 <em>Big things start small — one token at a time.</em>
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=724HNF4AAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-3899-2007)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hexixiang@nudt.edu.cn)
 [![Homepage](https://img.shields.io/badge/Project_Page-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://hexixiang.github.io/StemBind/)
 ![Profile Views](https://komarev.com/ghpvc/?username=hexixiang&color=blue&style=for-the-badge&label=Profile+Views)
