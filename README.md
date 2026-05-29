@@ -1,8 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Xixiang%20He&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=PhD%20%40%20NUDT%20%C2%B7%20LLM%20Post-training&descSize=16&descAlignY=60&descColor=cbd5e1)
+
 <div align="center">
 
-# Hi there 👋, I'm Xixiang He
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&center=true&vCenter=true&width=620&lines=PhD+Student+%40+NUDT;Large+Language+Models+%26+Post-training;Data+Selection+%C2%B7+RL+%C2%B7+Multimodal+Reasoning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&center=true&vCenter=true&width=620&lines=Large+Language+Models+%26+Post-training;Data+Selection+%C2%B7+RL+%C2%B7+Multimodal+Reasoning" alt="Typing SVG" />
 
 <em>Big things start small — one token at a time.</em>
 
