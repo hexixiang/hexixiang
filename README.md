@@ -31,6 +31,9 @@ I'm a **PhD student at the National University of Defense Technology (NUDT)**, w
 ### 📝 Selected Publications
 > Full and up-to-date list on [Google Scholar](https://scholar.google.com/citations?user=724HNF4AAAAJ&hl=en).
 
+- **StemBind: When MLLMs Get Lost Between Rules and Instances in Abstract Visual Reasoning**  
+  <ins>**Xixiang He**</ins>, et al. &nbsp;·&nbsp; *Under review, 2026* &nbsp;·&nbsp; [Project Page](https://hexixiang.github.io/StemBind/)
+
 - **Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation**  
   <ins>**Xixiang He**</ins>, Qiyao Sun, Ao Cheng, et al. &nbsp;·&nbsp; *ICML 2026* &nbsp;·&nbsp; [arXiv:2605.21125](https://arxiv.org/abs/2605.21125)
 
