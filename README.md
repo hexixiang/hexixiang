@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=header)
-
 <div align="center">
 
 # Hi there 👋, I'm Xixiang He
@@ -26,12 +24,9 @@ I'm a **PhD student at the National University of Defense Technology (NUDT)**, w
 - **Trustworthy LLMs** — hallucination detection, uncertainty estimation
 - **Multimodal & abstract reasoning** — evaluation and diagnostic benchmarks
 
-### 🔭 Currently Building
-**StemBind** — a shared-stem diagnostic benchmark that separates perception, rule induction, and rule-to-instance binding failures in abstract visual reasoning. → [Project Page](https://hexixiang.github.io/StemBind/)
-
 ---
 
-### 📝 Selected Publications
+### 📝 Publications
 > Full and up-to-date list on [Google Scholar](https://scholar.google.com/citations?user=724HNF4AAAAJ&hl=en).
 
 - **StemBind: When MLLMs Get Lost Between Rules and Instances in Abstract Visual Reasoning**  
