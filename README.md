@@ -40,14 +40,14 @@ I'm a **PhD student at the National University of Defense Technology (NUDT)**, w
 - **TACOS: Open Tagging and Comparative Scoring for Instruction Fine-Tuning Data Selection**  
   <ins>**Xixiang He**</ins>, Hao Yu, Qiyao Sun, et al. &nbsp;·&nbsp; *ICME 2025* &nbsp;·&nbsp; [arXiv:2507.03673](https://arxiv.org/abs/2507.03673)
 
+- **ENC-Bench: A Benchmark for Evaluating Multimodal LLMs in Electronic Navigational Chart Understanding**  
+  Ao Cheng et al. (incl. **Xixiang He**) &nbsp;·&nbsp; *CVPR 2026 (Highlight)* &nbsp;·&nbsp; [arXiv:2603.22763](https://arxiv.org/abs/2603.22763) &nbsp;·&nbsp; [Project Page](https://github.com/QingyongHu/ENC-Bench)
+
 - **Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration**  
   Qiyao Sun et al. (incl. **Xixiang He**) &nbsp;·&nbsp; *AAAI 2026 (Oral)* &nbsp;·&nbsp; [arXiv:2603.22812](https://arxiv.org/abs/2603.22812)
 
 - **MLLMs Get It Right, Then Get It Wrong: Tracing and Correcting Late-Layer Textual Bias** (CALRD)  
   Xingming Li et al. (incl. **Xixiang He**) &nbsp;·&nbsp; *IJCAI 2026* &nbsp;·&nbsp; [Project Page](https://qingyonghu.github.io/CALRD/)
-
-- **ENC-Bench: A Benchmark for Evaluating Multimodal LLMs in Electronic Navigational Chart Understanding**  
-  Ao Cheng et al. (incl. **Xixiang He**) &nbsp;·&nbsp; *CVPR 2026 (Highlight)* &nbsp;·&nbsp; [arXiv:2603.22763](https://arxiv.org/abs/2603.22763) &nbsp;·&nbsp; [Project Page](https://github.com/QingyongHu/ENC-Bench)
 
 ---
 
