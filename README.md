@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=header)
+
 <div align="center">
 
 # Hi there 👋, I'm Xixiang He
