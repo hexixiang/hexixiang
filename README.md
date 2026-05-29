@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Xixiang He (何熙翔)
+# Hi there 👋, I'm Xixiang He
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&center=true&vCenter=true&width=620&lines=PhD+Student+%40+NUDT;Large+Language+Models+%26+Post-training;Data+Selection+%C2%B7+RL+%C2%B7+Multimodal+Reasoning" alt="Typing SVG" />
 
@@ -58,12 +58,3 @@ I'm a **PhD student at the National University of Defense Technology (NUDT)**, w
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexixiang&show_icons=true&hide_border=true&theme=default&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexixiang&layout=compact&hide_border=true&theme=default)
-
-</div>
