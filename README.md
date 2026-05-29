@@ -1,63 +1,63 @@
-# Hi there 👋, I'm He! 😄
+<div align="center">
 
-I’m a **PhD student** specializing in **Large Language Models (LLMs)** and **fine-tuning techniques** for large models. My research interests focus on optimizing the performance of AI models, especially in the area of **fine-tuning, data selection**, and **multimodal model training**.
+# Hi there 👋, I'm Xixiang He (何熙翔)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&center=true&vCenter=true&width=620&lines=PhD+Student+%40+NUDT;Large+Language+Models+%26+Post-training;Data+Selection+%C2%B7+RL+%C2%B7+Multimodal+Reasoning" alt="Typing SVG" />
 
-### 🔭 Current Research
-- Working on **large-scale models**, including data selection, model fine-tuning, and training.
-- Exploring **cutting-edge AI techniques** to improve the **efficiency** and **accuracy** of large language models.
-- Diving deep into **multimodal pretraining** and fine-tuning, with a focus on large models.
+<em>Big things start small — one token at a time.</em>
 
----
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=724HNF4AAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hexixiang@nudt.edu.cn)
+[![Homepage](https://img.shields.io/badge/Project_Page-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://hexixiang.github.io/StemBind/)
+![Profile Views](https://komarev.com/ghpvc/?username=hexixiang&color=blue&style=for-the-badge&label=Profile+Views)
 
-### 🌱 Ongoing Learning
-I’m passionate about **machine learning**, **AI research**, and **everything that pushes the boundaries of technology**. I'm always eager to learn and implement new ideas, whether they relate to Python, Java, or advanced AI systems.
-
----
-
-### 💬 Feel free to ask me about:
-- **Large Language Models (LLMs)**
-- **Fine-tuning techniques** for deep learning models
-- **Java/Python programming**
-
-You can reach me at: [hexixiang@nudt.edu.cn](mailto:hexixiang@nudt.edu.cn)
+</div>
 
 ---
 
-### 📈 GitHub Stats
+I'm a **PhD student at the National University of Defense Technology (NUDT)**, working on **large language models** and their **post-training**. My research centers on making large models more efficient and reliable: instruction-tuning **data selection**, **reinforcement learning** for reasoning, **hallucination detection**, and **multimodal reasoning benchmarks**.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexixiang&show_icons=true&theme=transparent)
+### 🔬 Research Interests
+- **Data-centric post-training** — instruction fine-tuning, data selection, data quality
+- **RL for LLMs** — GRPO and its training dynamics
+- **Trustworthy LLMs** — hallucination detection, uncertainty estimation
+- **Multimodal & abstract reasoning** — evaluation and diagnostic benchmarks
 
----
-
-### 🚀 Skill Set
-
-#### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-#### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔭 Currently Building
+**StemBind** — a shared-stem diagnostic benchmark that separates perception, rule induction, and rule-to-instance binding failures in abstract visual reasoning. → [Project Page](https://hexixiang.github.io/StemBind/)
 
 ---
 
-### 📝 Read more about me
+### 📝 Selected Publications
+> Full and up-to-date list on [Google Scholar](https://scholar.google.com/citations?user=724HNF4AAAAJ&hl=en).
 
-Check out my articles and insights on my [CSDN Blog](https://blog.csdn.net/weixin_45507599?type=blog).
+- **Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation**  
+  <ins>**Xixiang He**</ins>, Qiyao Sun, Ao Cheng, et al. &nbsp;·&nbsp; *ICML 2026* &nbsp;·&nbsp; [arXiv:2605.21125](https://arxiv.org/abs/2605.21125)
+
+- **TACOS: Open Tagging and Comparative Scoring for Instruction Fine-Tuning Data Selection**  
+  <ins>**Xixiang He**</ins>, Hao Yu, Qiyao Sun, et al. &nbsp;·&nbsp; *ICME 2025* &nbsp;·&nbsp; [arXiv:2507.03673](https://arxiv.org/abs/2507.03673)
+
+- **Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration**  
+  Qiyao Sun et al. (incl. **Xixiang He**) &nbsp;·&nbsp; *AAAI 2026* &nbsp;·&nbsp; [arXiv:2603.22812](https://arxiv.org/abs/2603.22812)
+
+- **ENC-Bench: A Benchmark for Evaluating Multimodal LLMs in Electronic Navigational Chart Understanding**  
+  Ao Cheng et al. (incl. **Xixiang He**) &nbsp;·&nbsp; *Preprint* &nbsp;·&nbsp; [arXiv:2603.22763](https://arxiv.org/abs/2603.22763)
 
 ---
 
-### 📊 Visitors
-
-![](https://komarev.com/ghpvc/?username=hexixiang&color=blue&style=flat-square&label=Profile+Views)
+### 🛠️ Toolbox
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### ✨ Fun Fact
-I’m passionate about leveraging AI to solve real-world challenges and continuously seek to innovate and push the boundaries of what AI can achieve!
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexixiang&show_icons=true&hide_border=true&theme=default&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexixiang&layout=compact&hide_border=true&theme=default)
+
+</div>
