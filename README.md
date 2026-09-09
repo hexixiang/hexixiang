@@ -29,6 +29,9 @@ I'm a **PhD student at the National University of Defense Technology (NUDT)**, w
 ### 📝 Publications
 > Full and up-to-date list on [Google Scholar](https://scholar.google.com/citations?user=724HNF4AAAAJ&hl=en).
 
+- **Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs** (MT-SDPO)  
+  <ins>**Xixiang He**</ins>, Xingming Li, Baiqi Wu, et al. &nbsp;·&nbsp; *Preprint, 2026* &nbsp;·&nbsp; [arXiv:2609.02548](https://arxiv.org/abs/2609.02548) &nbsp;·&nbsp; [Code](https://github.com/hexixiang/MT-SDPO)
+
 - **StemBind: When MLLMs Get Lost Between Rules and Instances in Abstract Visual Reasoning**  
   <ins>**Xixiang He**</ins>, et al. &nbsp;·&nbsp; *Preprint, 2026* &nbsp;·&nbsp; [arXiv:2606.00148](https://arxiv.org/abs/2606.00148) &nbsp;·&nbsp; [Project Page](https://hexixiang.github.io/StemBind/)
 
